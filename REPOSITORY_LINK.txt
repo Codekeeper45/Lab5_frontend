@@ -1,0 +1,6 @@
+Лабораторная работа №5 - React + TypeScript
+
+Студент: Яппаров Эмир
+
+Ссылка на репозиторий:
+https://github.com/Codekeeper45/Lab5_frontend.git
